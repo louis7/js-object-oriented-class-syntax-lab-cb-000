@@ -50,5 +50,8 @@ constructor (name, homeState, training){
 }
 
 class Ceo extends BoardMember{
+  hireEmployee(){
+    console.log("Welcome aboard!")
+  }
 
 }
